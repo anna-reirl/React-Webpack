@@ -1,9 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import { hot } from 'react-hot-loader'
+import './index.scss';
 
-import 'core-js/stable';
-import 'regenerator-runtime/runtime';
+
 
 class App extends React.Component {
     render() {
